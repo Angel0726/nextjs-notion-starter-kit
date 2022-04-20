@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '9a213a24892e4cc08f7ebc93290818b3?v=e201d7dda5254b1d8507d38e46cd0147',
+  rootNotionPageId: '5d26e55613ca4c58b2a1a1c2d12ddb3a',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '酷酷的人',
-  domain: 'https://jeweled-trilby-556.notion.site/9a213a24892e4cc08f7ebc93290818b3?v=e201d7dda5254b1d8507d38e46cd0147',
+  domain: 'https://jeweled-trilby-556.notion.site/Next-js-Notion-Starter-Kit-Template-5d26e55613ca4c58b2a1a1c2d12ddb3a',
   author: 'angel',
 
   // open graph metadata (optional)
