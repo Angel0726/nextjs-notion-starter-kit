@@ -9,16 +9,16 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '酷酷的人',
-  domain: 'https://jeweled-trilby-556.notion.site/Next-js-Notion-Starter-Kit-Template-5d26e55613ca4c58b2a1a1c2d12ddb3a',
-  author: 'angel',
+  name: 'Civilization Museum',
+  domain: 'coolkit.vercel.app',
+  author: 'Logic',
 
   // open graph metadata (optional)
-  description: '记录点滴生活',
+  description: '给时光以生命，给岁月以光明',
 
   // social usernames (optional)
   twitter: '',
-  github: 'angel0726',
+  github: '',
   linkedin: '',
 
   // default notion icon and cover images for site-wide consistency (optional)
