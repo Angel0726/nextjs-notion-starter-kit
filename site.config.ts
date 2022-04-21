@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Logic',
 
   // open graph metadata (optional)
-  description: '给时光以生命，给岁月以光明',
+  description: '给时光以生命，给岁月以文明',
 
   // social usernames (optional)
   twitter: '',
